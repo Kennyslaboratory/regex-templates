@@ -1,7 +1,7 @@
 # Python Regular Expressions
 
 ## Introduction
-Use these resources to test and verify that your custom queries are working.
+Use these resources to test and verify that your custom queries:
   * https://regexr.com/
   * https://www.rexegg.com/regex-quickstart.html
 
