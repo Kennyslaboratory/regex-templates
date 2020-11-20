@@ -11,7 +11,12 @@ Use these resources to test and verify that your custom queries are working.
 Whether you're scrapping a website or opening a large file of data, I've got you covered.  I'm currently using the requests module in python to do the web request.  So you may need to install the requests module using pip / pip3.
 
 ----------------------------------------------------------
-## Popular Expressions
+## Regular Expressions for Hackers
 
 **Extract values from HTML meta tags:**
 
+**Extract links from web pages:**
+
+**Extract emails:**
+
+**Extract phone numbers:**
